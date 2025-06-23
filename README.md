@@ -1,7 +1,7 @@
 <p align="center">
 <img src = "https://bayanbox.ir/view/1353559592827697052/programmer.gif" style="width:400px;"/>
 </p>
-🎓 I am Hassan Ardeshir, currently dedicated to my Computer Science journey at the University of Tehran. 🏛️<br><br>👨‍💼 Beyond my academic endeavors, I actively engage as a freelancer on Upwork, a platform where I've had the privilege of collaborating with diverse clients, enriching my educational path with hands-on experiences. 🚀<br><br>🤝 As a team leader, I've skillfully guided collective efforts in the domains of Data Analysis and Socket-based Information Retrieval, fostering collaboration and achieving collective success. 🌐
+🎓 I am Hassan Ardeshir, currently dedicated to my Computer Science journey at Heidelberg University. 🏛️<br><br>👨‍💼 Beyond my academic endeavors, I actively engage as a freelancer on Upwork, a platform where I've had the privilege of collaborating with diverse clients, enriching my educational path with hands-on experiences. 🚀<br><br>🤝 As a team leader, I've skillfully guided collective efforts in the domains of Data Analysis and Socket-based Information Retrieval, fostering collaboration and achieving collective success. 🌐
 
 
 ## 🌐 Socials
